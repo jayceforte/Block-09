@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+}
+
+article{
+    color: antiquewhite;
+}
+h2{
+    color: blue;
+}
+@media screen {
+    (max-width: 768px;)[example-class][
+        margin: 0 auto !important;
+        padding: 0 !important;
+    ]
+}
